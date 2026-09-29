@@ -1,0 +1,43 @@
+{
+	"directors": [
+		{
+			"name": "Christopher Nolan",
+			"birthYear": 1970
+		},
+		{
+			"name": "Quentin Tarantino",
+			"birthYear": 1963
+		},
+		{
+			"name": "Greta Gerwig",
+			"birthYear": 1983
+		}
+	],
+	"movies": [
+		{
+			"title": "Inception",
+			"year": 2010,
+			"director": "Christopher Nolan"
+		},
+		{
+			"title": "Dunkirk",
+			"year": 2017,
+			"director": "Christopher Nolan"
+		},
+		{
+			"title": "Pulp Fiction",
+			"year": 1994,
+			"director": "Quentin Tarantino"
+		},
+		{
+			"title": "Kill Bill",
+			"year": 2003,
+			"director": "Quentin Tarantino"
+		},
+		{
+			"title": "Barbie",
+			"year": 2023,
+			"director": "Greta Gerwig"
+		}
+	]
+}
